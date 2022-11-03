@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fahimshahrairakash03/React-Core-Concept3/static/css/main.073c9b0a.css",
+    "main.js": "/fahimshahrairakash03/React-Core-Concept3/static/js/main.ab25ec18.js",
+    "static/js/787.202ccdbb.chunk.js": "/fahimshahrairakash03/React-Core-Concept3/static/js/787.202ccdbb.chunk.js",
+    "static/media/logo.svg": "/fahimshahrairakash03/React-Core-Concept3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fahimshahrairakash03/React-Core-Concept3/index.html",
+    "main.073c9b0a.css.map": "/fahimshahrairakash03/React-Core-Concept3/static/css/main.073c9b0a.css.map",
+    "main.ab25ec18.js.map": "/fahimshahrairakash03/React-Core-Concept3/static/js/main.ab25ec18.js.map",
+    "787.202ccdbb.chunk.js.map": "/fahimshahrairakash03/React-Core-Concept3/static/js/787.202ccdbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ab25ec18.js"
+  ]
+}
